@@ -1,0 +1,38 @@
+body { 
+ background-image:url("../images/fire.jpg");
+ background-color: bisque;
+}
+
+h2 { 
+    text-align: center;
+    color: aquamarine; 
+    padding-top: 50px; 
+    
+}
+ 
+p { 
+    font-style: italic;
+    font-weight: bold;
+    font-size: 25px; 
+}
+
+.container-form { 
+     background-image: url("../images/fire.jpg");
+     background-color: bisque;
+     position: relative;
+     width: 100%; 
+}
+
+/* presents the question */ 
+
+.question-area { 
+    background-color: aquamarine;
+    height: 300px;
+    position: absolute;
+    width: 50%; 
+    right:25%; 
+    left:25%; 
+    text-align: center;
+    margin-top:200px; 
+
+}
